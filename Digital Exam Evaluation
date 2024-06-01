@@ -2,8 +2,6 @@
 """
 Created on Tue Aug 23 20:13:19 2022
 
-@author: Samad
-"""
 
 import pandas as pd
 import os 
